@@ -1,3 +1,31 @@
+### What did I do
+
+* Implement functions as required, and use the required frameworks react and redux
+
+* I also use reselect for caching
+
+* I implement all components by myself based on the design principle of matrial-ui, without using any third-party component libraries
+
+* Realize network error capture and arbitrary class name sorting
+
+* Network error capture and separate table name sorting
+
+### What else do I expect, If long-term plan
+
+* Add unit test, component test
+
+* Integrated ci, cd release process
+
+* Manage front-end routing, if it is a spa application.
+
+* If multi-project management can add lerna, and docker to make an independent environment
+
+[A tool for managing JavaScript projects with multiple packages.](https://github.com/lerna/lerna)
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
