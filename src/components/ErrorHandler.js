@@ -59,7 +59,7 @@ const ErrorHandler = () => {
   }
 
   return (
-    <ErrorContainer className='error-container'>
+    <ErrorContainer>
       {errorList}
     </ErrorContainer>
   )
